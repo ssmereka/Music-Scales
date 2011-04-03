@@ -1,0 +1,82 @@
+C:\Users\Scottiey\documents\visual studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\bin\Debug\CIS376_TermProject.exe
+C:\Users\Scottiey\documents\visual studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\bin\Debug\CIS376_TermProject.pdb
+C:\Users\Scottiey\documents\visual studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Scottiey\documents\visual studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.Properties.Resources.resources
+C:\Users\Scottiey\documents\visual studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Scottiey\documents\visual studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Scottiey\documents\visual studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.exe
+C:\Users\Scottiey\documents\visual studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.pdb
+C:\Users\Scottiey\documents\visual studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.MainForm.resources
+C:\Users\Razor\Documents\Visual Studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.exe
+C:\Users\Razor\Documents\Visual Studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.pdb
+C:\Users\Razor\Documents\Visual Studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\bin\Debug\CIS376_TermProject.exe
+C:\Users\Razor\Documents\Visual Studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\bin\Debug\CIS376_TermProject.pdb
+C:\Users\Razor\Documents\Visual Studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Razor\Documents\Visual Studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.MainForm.resources
+C:\Users\Razor\Documents\Visual Studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.Properties.Resources.resources
+C:\Users\Razor\Documents\Visual Studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Razor\Documents\Visual Studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Razor\Documents\Visual Studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.TutorialForm.resources
+C:\Users\Razor\Documents\Visual Studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.HelpForm.resources
+C:\Users\Razor\Documents\Visual Studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.AboutForm.resources
+C:\Users\Razor\Documents\Visual Studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\Razor\Documents\Visual Studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Razor\Documents\Visual Studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Razor\Documents\Visual Studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Razor\Documents\Visual Studio 2010\Projects\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.csproj.ResolveComReference.cache
+C:\Users\Corey\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Corey\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Corey\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.csproj.ResolveComReference.cache
+C:\Users\Corey\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.exe
+C:\Users\Corey\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.pdb
+C:\Users\Corey\Desktop\CIS376_TermProject\CIS376_TermProject\bin\Debug\CIS376_TermProject.exe
+C:\Users\Corey\Desktop\CIS376_TermProject\CIS376_TermProject\bin\Debug\CIS376_TermProject.pdb
+C:\Users\Corey\Desktop\CIS376_TermProject\CIS376_TermProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\Corey\Desktop\CIS376_TermProject\CIS376_TermProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Corey\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Corey\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.AboutForm.resources
+C:\Users\Corey\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.MainForm.resources
+C:\Users\Corey\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.TutorialForm.resources
+C:\Users\Corey\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.HelpForm.resources
+C:\Users\Corey\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.Properties.Resources.resources
+C:\Users\Corey\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Corey\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Corey Maylone\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Corey Maylone\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Corey Maylone\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.csproj.ResolveComReference.cache
+C:\Users\Corey Maylone\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.pdb
+C:\Users\Corey Maylone\Desktop\CIS376_TermProject\CIS376_TermProject\bin\Debug\CIS376_TermProject.exe
+C:\Users\Corey Maylone\Desktop\CIS376_TermProject\CIS376_TermProject\bin\Debug\CIS376_TermProject.pdb
+C:\Users\Corey Maylone\Desktop\CIS376_TermProject\CIS376_TermProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\Corey Maylone\Desktop\CIS376_TermProject\CIS376_TermProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Corey Maylone\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Corey Maylone\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.AboutForm.resources
+C:\Users\Corey Maylone\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.MainForm.resources
+C:\Users\Corey Maylone\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.TutorialForm.resources
+C:\Users\Corey Maylone\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.HelpForm.resources
+C:\Users\Corey Maylone\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.Properties.Resources.resources
+C:\Users\Corey Maylone\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Corey Maylone\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Corey Maylone\Desktop\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.exe
+C:\Users\Razor\Documents\UMD\Fall 10\CIS 376\Term Project\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Razor\Documents\UMD\Fall 10\CIS 376\Term Project\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Razor\Documents\UMD\Fall 10\CIS 376\Term Project\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.csproj.ResolveComReference.cache
+C:\Users\Razor\Documents\UMD\Fall 10\CIS 376\Term Project\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.pdb
+C:\Users\Razor\Documents\UMD\Fall 10\CIS 376\Term Project\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\bin\Debug\CIS376_TermProject.exe
+C:\Users\Razor\Documents\UMD\Fall 10\CIS 376\Term Project\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\bin\Debug\CIS376_TermProject.pdb
+C:\Users\Razor\Documents\UMD\Fall 10\CIS 376\Term Project\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\Razor\Documents\UMD\Fall 10\CIS 376\Term Project\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Razor\Documents\UMD\Fall 10\CIS 376\Term Project\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Razor\Documents\UMD\Fall 10\CIS 376\Term Project\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.AboutForm.resources
+C:\Users\Razor\Documents\UMD\Fall 10\CIS 376\Term Project\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.MainForm.resources
+C:\Users\Razor\Documents\UMD\Fall 10\CIS 376\Term Project\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.TutorialForm.resources
+C:\Users\Razor\Documents\UMD\Fall 10\CIS 376\Term Project\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.HelpForm.resources
+C:\Users\Razor\Documents\UMD\Fall 10\CIS 376\Term Project\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.Properties.Resources.resources
+C:\Users\Razor\Documents\UMD\Fall 10\CIS 376\Term Project\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Razor\Documents\UMD\Fall 10\CIS 376\Term Project\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Razor\Documents\UMD\Fall 10\CIS 376\Term Project\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.exe
+C:\Users\Scottiey\Desktop\CIS376\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Scottiey\Desktop\CIS376\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Scottiey\Desktop\CIS376\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.csproj.ResolveComReference.cache
+C:\Users\Scottiey\Desktop\CIS376\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.exe
+C:\Users\Scottiey\Desktop\CIS376\CIS376_TermProject\CIS376_TermProject\CIS376_TermProject\obj\x86\Debug\CIS376_TermProject.pdb
